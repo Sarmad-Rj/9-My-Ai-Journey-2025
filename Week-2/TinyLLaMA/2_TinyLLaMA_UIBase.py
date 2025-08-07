@@ -17,7 +17,7 @@ def generate_response(prompt):
 
 # Streamlit UI
 st.set_page_config(page_title="TinyLLaMA Chatbot")
-st.title("🧠 TinyLLaMA Chatbot")
+st.title("My TinyLLaMA Chatbot")
 
 user_input = st.text_input("You:", "")
 

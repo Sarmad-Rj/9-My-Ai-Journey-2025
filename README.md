@@ -1,4 +1,4 @@
-# 🚀 Sarmad Rj's AI & Data Science Journey
+<h1 align="left">🚀 Sarmad Rj's AI & Data Science Journey</h1>
 
 This repository documents my weekly progress, hands-on projects, and technical growth in the field of **AI, LLMs, Python development, web scraping, and more**. I commit weekly updates to keep track of my training milestones, practical learning, and experiments.
 
@@ -65,10 +65,6 @@ This repository documents my weekly progress, hands-on projects, and technical g
 
 ---
 
-> 📌 **This README will be updated weekly** to reflect all new skills, projects, and learnings. Follow the repository to watch my full AI journey unfold.
-
----
-
 <p align="center">
   <!-- Royal Green Style Badges (Modern SVG) -->
 <img src="https://img.shields.io/badge/Python-3.10-1f441a?style=for-the-badge&logo=python&logoColor=royalgreen" />
@@ -78,5 +74,8 @@ This repository documents my weekly progress, hands-on projects, and technical g
 <img src="https://img.shields.io/badge/Matplotlib-Graphing-1f441a?style=for-the-badge&logo=plotly&logoColor=royalgreen" />
 <img src="https://img.shields.io/badge/Anaconda-Env-1f441a?style=for-the-badge&logo=anaconda&logoColor=royalgreen" />
 <img src="https://img.shields.io/badge/Huggingface-TinyLLaMA-1f441a?style=for-the-badge&logo=huggingface&logoColor=royalgreen" />
-<img src="https://img.shields.io/badge/GitHub-AI--Learning-1f441a?style=for-the-badge&logo=github&logoColor=royalgreen" />
+<!-- <img src="https://img.shields.io/badge/GitHub-AI--Learning-1f441a?style=for-the-badge&logo=github&logoColor=royalgreen" /> -->
 </p>
+
+> 📌 **This README will be updated weekly** to reflect all new skills, projects, and learnings. Follow the repository to watch my full AI journey unfold.
+

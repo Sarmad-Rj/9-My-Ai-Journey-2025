@@ -64,10 +64,29 @@ This repository documents my weekly progress, hands-on projects, and technical g
 - Model now responds in real-time on CPU, with smooth interaction in both notebook and app
 
 ---
+### 📦 Tech Stack Used
+
+<details>
+<summary><strong>📘 Click to view full list of tools, libraries, and technologies</strong></summary>
+
+<br>
+
+| Category                    | Tools / Libraries / Technologies                              |
+| --------------------------- | ------------------------------------------------------------- |
+| **💻 Language**             | `Python 3.10` `Python 3.11` `Python 3.13`                                                 |
+| **🧠 LLMs & AI**            | `Hugging Face Transformers`, `TinyLLaMA-1.1B-Chat`, `PyTorch` |
+| **📊 Data & Visualization** | `NumPy`, `Matplotlib`                                         |
+| **🌐 Web Scraping**         | `BeautifulSoup`, `Requests`                                   |
+| **🧪 Model Optimization**   | `safetensors`, `Tokenizer`, `Quantized 4-bit LLM`             |
+| **📓 Dev Environment**      | `Jupyter Notebook`, `Anaconda`                                |
+| **🖼 UI Framework**         | `Streamlit` (Notebook & planned GUI)                          |
+
+</details>
+<br>
 
 <p align="center">
   <!-- Royal Green Style Badges (Modern SVG) -->
-<img src="https://img.shields.io/badge/Python-3.10-1f441a?style=for-the-badge&logo=python&logoColor=royalgreen" />
+<img src="https://img.shields.io/badge/Python-3-1f441a?style=for-the-badge&logo=python&logoColor=royalgreen" />
 <img src="https://img.shields.io/badge/Streamlit-Framework-1f441a?style=for-the-badge&logo=streamlit&logoColor=royalgreen" />
 <img src="https://img.shields.io/badge/Jupyter-Notebook-1f441a?style=for-the-badge&logo=jupyter&logoColor=royalgreen" />
 <img src="https://img.shields.io/badge/Numpy-Library-1f441a?style=for-the-badge&logo=numpy&logoColor=royalgreen" />

@@ -1,4 +1,4 @@
-<h1 align="left">🚀 Sarmad Rj's AI & Data Science Journey</h1>
+<h1 align="left">🚀 Sarmad Rj's AI & Data Science Journey.</h1>
 
 This repository documents my weekly progress, hands-on projects, and technical growth in the field of **AI, LLMs, Python development, web scraping, and more**. I commit weekly updates to keep track of my training milestones, practical learning, and experiments.
 
